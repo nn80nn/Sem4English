@@ -1,4 +1,4 @@
-### Words
+### Words:
 
 **a) ADSL (Asymmetric Digital Subscriber Line)**  
 Перевод: Асимметричная цифровая абонентская линия  
