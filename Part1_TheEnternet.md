@@ -1,3 +1,5 @@
+### Words
+
 **a) ADSL (Asymmetric Digital Subscriber Line)**
 Перевод: Асимметричная цифровая абонентская линия
 Определение: ADSL is a type of DSL technology that provides high-speed internet access by using existing telephone lines, offering faster download speeds than upload speeds.
