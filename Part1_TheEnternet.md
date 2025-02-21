@@ -244,7 +244,7 @@ The World Wide Web is not (6) **synonymous** with the Internet, which pre-existe
 3. Технологии доступа к Интернету постоянно меняются и совершенствуются.
     * Internet access technologies are constantly changing and improving.
 4. Цифровая абонентская линия является более быстрым вариантом доступа к Интернету, чем коммутируемый доступ.
-    * Digital Subscriber Line (DSL) is a faster Internet access option than dial-up.
+    * Digital Subscriber Line (DSL) is a faster Internet access option than dial-up one.
 5. Сотовая сеть использует специальные базовые станции для передачи сигнала.
     * A cellular network uses special base stations to transmit a signal.
 6. Всемирная паутина является одним из лучших источников последней информации.
