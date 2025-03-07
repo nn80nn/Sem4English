@@ -274,3 +274,48 @@ But remember that opening too many tabs can interfere with proper functioning.
 
 
 
+
+# Пересказ
+
+Search engines are essential tools allowing users to retrieve information from the vast resources
+available on the Internet. They can be categorized into three main types: crawler-based search
+engines, human-powered directories, and meta-search engines. Crawler-based engines, such as
+Google, Bing, and Yahoo!, automatically index webpages through a process involving crawling,
+indexing, and ranking. A web crawler (or spider) systematically discovers new content by
+following links across the web, indexing the information into a database. When users enter
+queries, these indexed pages are ranked according to relevance algorithms that continuously
+evolve.  
+
+
+In contrast, human-powered directories like Yahoo! Directory and Open Directory rely on manual
+submissions reviewed by editors. These directories categorize websites based solely on
+submitted descriptions rather than actual webpage content. However, automated search
+engines have largely replaced these manual directories due to greater efficiency and coverage.
+Meta-search engines such as Dogpile and MetaCrawler do not maintain their own databases;
+instead, they aggregate results from multiple search engines, remove duplicates, rank them, and
+present a unified list to users.  
+
+
+Although Google dominates globally, several alternative search engines offer distinct
+advantages. Bing, owned by Microsoft, provides user-friendly features like currency conversion
+and translation tools alongside an attractive rewards scheme. China's Baidu closely resembles
+Google but is heavily censored and primarily serves the Chinese market. Russia's Yandex is
+another popular alternative with similar functionalities to Google, including maps and cloud
+storage services; it holds a majority market share in Russia.
+
+
+Privacy-focused alternatives are also gaining popularity. Ecosia distinguishes itself by running
+servers on renewable energy and using profits for tree planting initiatives. Search Encrypt
+emphasizes privacy through encryption methods that prevent tracking and automatically erase
+browsing history after periods of inactivity.
+
+
+Web browsers facilitate access to websites by following standardized protocols. When users
+type a URL into the browser's address bar, the browser translates this domain name into an IP
+address using DNS (Domain Name System). It then establishes a connection with the server via
+TCP (Transmission Control Protocol). After establishing this connection, HTTP (Hypertext
+Transfer Protocol) requests are sent to retrieve webpage content formatted in HTML (Hypertext
+Markup Language). Browsers like Google Chrome, Firefox, or Microsoft Edge usually offer
+additional features such as bookmarks, history management, cookies storage for faster loading
+times, multiple tabs capability, and customizable add-ons enhancing overall functionality.
+
