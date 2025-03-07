@@ -64,17 +64,20 @@ Definition: A software application for accessing information on the World Wide W
 # HOMEWORK
 
 **Задание 6 Заполните пробелы в предложениях**
-. Letʼs ____ ___and see how the search engine turns your ________ into a result.
-Letʼs search now and see how the search engine turns your query into a result.
+. Letʼs ____ ___and see how the search engine turns your ________ into a result.  
+Letʼs search now and see how the search engine turns your query into a result.  
 . Search engines are constantly running a program called a spider that ________ through
-web pages following hyperlinks. The information this program collects is added to a
-special database called ______ ______.
+web pages following hyperlinks.  
+The information this program collects is added to a
+special database called ______ ______.  
 Search engines are constantly running a program called a spider that crawls
-through web pages following hyperlinks. The information this program collects is
-added to a special database called search index.
+through web pages following hyperlinks.  
+The information this program collects is
+added to a special database called search index.  
 . Each search engine uses its own algorithm to rank the pages _____ ___ what it thinks you
-want. The search engine ranking algorithm might check if your search term shows up in
-the page ______ or it might check if all the words show up ____ ____ ____ ____.
+want.   
+The search engine ranking algorithm might check if your search term shows up in
+the page ______ or it might check if all the words show up ____ ____ ____ ____.  
 Each search engine uses its own algorithm to rank the pages based on what it thinks
 you want. The search engine ranking algorithm might check if your search term
 shows up in the page title or it might check if all the words show up next to each
