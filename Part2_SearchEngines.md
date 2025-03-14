@@ -319,3 +319,24 @@ Markup Language). Browsers like Google Chrome, Firefox, or Microsoft Edge usuall
 additional features such as bookmarks, history management, cookies storage for faster loading
 times, multiple tabs capability, and customizable add-ons enhancing overall functionality.
 
+Сокращённый пересказ:
+Search engines are essential tools enabling users to retrieve information from the vast resources on the Internet. They fall into three main categories:
+
+- **Crawler-based search engines** (e.g., Google, Bing, Yahoo!) automatically index webpages through crawling, indexing, and ranking. Web crawlers systematically discover content by following links and indexing information in databases. Queries return ranked results based on evolving relevance algorithms.
+
+- **Human-powered directories** (e.g., Yahoo! Directory, Open Directory) rely on manual submissions reviewed by editors, categorizing websites based on submitted descriptions rather than actual content. Automated search engines have largely replaced these directories due to greater efficiency and coverage.
+
+- **Meta-search engines** (e.g., Dogpile, MetaCrawler) aggregate results from multiple search engines, remove duplicates, rank them, and present a unified list to users without maintaining their own databases.
+
+Although Google dominates globally, alternative search engines offer distinct advantages:
+
+- **Bing** provides user-friendly features like currency conversion, translation tools, and rewards schemes.
+- **Baidu** primarily serves China's market with functionalities similar to Google but heavily censored.
+- **Yandex** is popular in Russia, offering maps and cloud storage services similar to Google.
+
+Privacy-focused alternatives gaining popularity include:
+
+- **Ecosia**, using renewable energy and profits for tree planting initiatives.
+- **Search Encrypt**, emphasizing privacy through encryption methods preventing tracking and automatically erasing browsing history.
+
+Web browsers facilitate website access through standardized protocols. When users enter URLs, browsers translate domain names into IP addresses via DNS, establish connections using TCP, and retrieve webpage content via HTTP formatted in HTML. Popular browsers like Chrome, Firefox, or Edge offer additional features such as bookmarks, history management, cookies for faster loading times, tabbed browsing, and customizable add-ons enhancing functionality.
