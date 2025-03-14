@@ -319,7 +319,7 @@ Markup Language). Browsers like Google Chrome, Firefox, or Microsoft Edge usuall
 additional features such as bookmarks, history management, cookies storage for faster loading
 times, multiple tabs capability, and customizable add-ons enhancing overall functionality.
 
-Сокращённый пересказ:
+# Сокращённый пересказ:  
 Search engines are essential tools enabling users to retrieve information from the vast resources on the Internet. They fall into three main categories:
 
 - **Crawler-based search engines** (e.g., Google, Bing, Yahoo!) automatically index webpages through crawling, indexing, and ranking. Web crawlers systematically discover content by following links and indexing information in databases. Queries return ranked results based on evolving relevance algorithms.
