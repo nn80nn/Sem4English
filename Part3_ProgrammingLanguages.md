@@ -214,6 +214,64 @@ The video highlights several key features of Python:
 10. **Что можно ускорить за счет повторного использования кода?**
     - Разработку и обслуживание программ.
 
+### Answers to the Questions
+
+#### **What are the advantages of using OOP?**
+
+- **Code Reusability:** OOP promotes code reuse through inheritance, saving development time and reducing redundancy[^1][^14].
+- **Modularity:** Complex systems are divided into smaller, manageable components, making debugging and maintenance easier[^1][^15].
+- **Flexibility:** Polymorphism allows methods to behave differently based on the object type, enhancing adaptability[^2][^15].
+- **Security:** Encapsulation protects sensitive data and ensures controlled access[^1][^3].
+- **Scalability:** OOP facilitates the addition of new features without impacting existing code[^1][^15].
+
+
+#### **Three key features of OOP:**
+
+1. **Encapsulation:** Bundling data and methods into a single unit (object), ensuring data security and controlled access[^3].
+2. **Inheritance:** Allows one class to inherit properties and methods from another, promoting code reuse and hierarchical organization[^4].
+3. **Polymorphism:** Enables objects to respond differently to the same instructions, providing flexibility in code design[^5].
+
+#### **What is encapsulation?**
+
+Encapsulation is the practice of bundling related data and methods into a single structured unit (object) while restricting direct access to certain components. It ensures data security and prevents accidental modification by exposing only necessary functionality through a public interface[^3].
+
+#### **What is inheritance?**
+
+Inheritance allows a class (child class) to inherit attributes and methods from another class (parent class). This promotes code reuse, reduces duplication, and supports hierarchical classification in programming[^4].
+
+#### **What is polymorphism?**
+
+Polymorphism is the ability of objects to respond differently to the same method call or instruction depending on their class type. It enables flexibility and reusability by allowing shared interfaces for different behaviors[^5].
+
+#### **What multimedia data types are mentioned?**
+
+The multimedia data types mentioned include **sound** (audio) and **video**, which are commonly used for dynamic applications[^6][^7].
+
+#### **Which types of triangles are mentioned in the text?**
+
+The types of triangles mentioned are:
+
+- Right triangle (прямоугольный).
+- Equilateral triangle (равносторонний).
+- Isosceles triangle (равнобедренный)[^9].
+
+
+#### **What specific type of rectangle is named?**
+
+The specific type of rectangle named is a **square**, which has four equal sides and all right angles[^12].
+
+#### **What general properties of rectangles are mentioned?**
+
+- A rectangle has four sides.
+- All angles are right angles (90 degrees)[^12].
+
+
+#### **What can be accelerated by code reuse?**
+
+Code reuse can accelerate both the development process and maintenance of programs by reducing redundancy, improving efficiency, and minimizing errors
+
+
+
 ---
 
 ## **Task 8. Match the terms with the definitions:**
