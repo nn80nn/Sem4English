@@ -145,7 +145,31 @@ Finally, an assembler translates it into machine code: "1000110010100000".
 18) of
 19) for
 
+## Task 6
 
+### Answers to the Query
+
+1. **What programming language had been extensively used by Apple before Swift was developed?**
+The programming language extensively used by Apple before Swift was developed is **Objective-C**. It is an object-oriented language that adds Smalltalk-style messaging to the C language and was widely used for macOS and iOS development.
+2. **What programming language is titled ‘the mother of all programming languages’?**
+**C** is often referred to as "the mother of all programming languages" because it has significantly influenced most modern programming languages, including C++, Java, and Python.
+3. **What programming language has changed the face of the Internet?**
+**JavaScript** has changed the face of the Internet due to its integration with HTML and its ability to create dynamic, interactive web pages. It became essential for web development during the rapid growth of the World Wide Web in the 1990s.
+4. **What is good about Java?**
+Java offers several advantages:
+    - **Platform Independence:** Its "write once, run anywhere" philosophy allows Java applications to run on any device equipped with a JVM.
+    - **Object-Oriented:** Promotes modularity and code reuse through its object-oriented design.
+    - **Rich Standard Library:** Provides extensive APIs for tasks like networking, GUI development, and more.
+    - **Multithreading:** Built-in support for concurrent programming enhances performance for multitasking applications.
+5. **What is a common misconception about Python?**  
+A common misconception about Python is that it is only a scripting language, which limits its use to automating tasks. In reality, Python supports robust software development, scalability, concurrency, and large-scale projects through its extensive libraries and frameworks.
+6. **Which distinctive features of Python are emphasized in the video?**
+The video highlights several key features of Python:
+    - It is **free and open-source**, allowing public access and contributions to its development.
+    - Python supports both **object-oriented** and procedural programming paradigms.
+    - It offers **high portability**, enabling code execution across different platforms like Windows, Unix, and Linux.
+    - Python includes a **large standard library**, reducing the need for developers to write extensive code manually.
+    - It is a **dynamically typed language**, simplifying variable declarations, and supports automatic garbage collection.
 
 ## **Task 7. Read and translate text D. Answer the questions to the text.**
 
