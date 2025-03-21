@@ -373,4 +373,16 @@ Python is widely used in data analysis, web development, and other fields, inclu
 
 
 
+# Пересказ 
 
+Computers operate by processing large amounts of information using machine language, which consists of binary digits (0s and 1s). While machine code is the only language computers understand directly, it is too complex for humans to write efficiently. To address this, symbolic languages like assembly language were developed, using abbreviations such as ADD, SUB, and MUL to represent instructions. These languages are then translated into machine code by an assembler. Both machine code and assembly languages are considered low-level languages because they are closer to the hardware and specific to particular computer architectures.
+
+To simplify programming and make it more accessible, high-level languages were introduced. These languages resemble human language more closely and offer high levels of abstraction. Examples include FORTRAN, designed in the 1950s for scientific computations; BASIC, created in the 1960s for beginners; PASCAL, widely used for teaching programming fundamentals; and C, developed in the 1970s for systems programming. C++ extended C by incorporating object-oriented programming (OOP), enabling easier program modification.
+
+Java emerged in 1995 with a focus on web development and platform independence through its "Write Once, Run Anywhere" principle. It introduced the Java Virtual Machine (JVM) and popularized OOP. Python, created in 1989, emphasized simplicity and readability, becoming popular for web development, data analysis, and artificial intelligence.
+
+Programs written in high-level languages must be translated into machine code using either a compiler or an interpreter. A compiler converts the entire program into machine code at once, while an interpreter translates it line by line during execution. High-level languages are portable across different systems, unlike low-level languages that require hardware-specific coding. This portability makes high-level languages ideal for creating software applications, web apps, and mobile apps.
+
+Computers operate by processing large amounts of information using machine language, which consists of binary digits (0s and 1s). While machine code is the only language computers understand directly, it is too complex for humans to write efficiently. To address this, symbolic languages like assembly language were developed, using abbreviations such as ADD, SUB, and MUL to represent instructions. These languages are then translated into machine code by an assembler. Both machine code and assembly languages are considered low-level languages because they are closer to the hardware and specific to particular computer architectures.
+
+To simplify programming and make it more accessible, high-level languages were introduced. These languages resemble human language more closely and offer high levels of abstraction. Examples include FORTRAN for scientific computations, BASIC for beginners, PASCAL for teaching programming fundamentals, and C for systems programming. C++ extended C by incorporating object-oriented programming (OOP), enabling easier program modification.
