@@ -386,3 +386,22 @@ Programs written in high-level languages must be translated into machine code us
 Computers operate by processing large amounts of information using machine language, which consists of binary digits (0s and 1s). While machine code is the only language computers understand directly, it is too complex for humans to write efficiently. To address this, symbolic languages like assembly language were developed, using abbreviations such as ADD, SUB, and MUL to represent instructions. These languages are then translated into machine code by an assembler. Both machine code and assembly languages are considered low-level languages because they are closer to the hardware and specific to particular computer architectures.
 
 To simplify programming and make it more accessible, high-level languages were introduced. These languages resemble human language more closely and offer high levels of abstraction. Examples include FORTRAN for scientific computations, BASIC for beginners, PASCAL for teaching programming fundamentals, and C for systems programming. C++ extended C by incorporating object-oriented programming (OOP), enabling easier program modification.
+
+
+
+# Сокращённый пересказ
+
+
+Computers process information using machine language, consisting of binary digits (0s and 1s). While machine code is the only language computers understand directly, it is too complex for humans to write efficiently. To address this, symbolic languages like assembly language were developed, using abbreviations such as ADD, SUB, and MUL to represent instructions. These are translated into machine code by an assembler. Both machine code and assembly languages are low-level languages because they are hardware-specific and closer to the machine.
+
+
+High-level languages were introduced to simplify programming and make it more accessible. These languages resemble human language and offer higher abstraction levels. Examples include FORTRAN for scientific computations, BASIC for beginners, PASCAL for teaching programming, and C for systems programming. C++ extended C with object-oriented programming (OOP), making program modification easier.
+
+
+Java, introduced in 1995, focused on web development and platform independence with its "Write Once, Run Anywhere" principle through the Java Virtual Machine (JVM). Python, created in 1989, emphasized simplicity and readability, gaining popularity in web development, data analysis, and AI.
+
+
+Programs in high-level languages must be translated into machine code using a compiler or interpreter. Compilers convert the entire program at once, while interpreters translate it line by line during execution. High-level languages are portable across systems, unlike hardware-specific low-level languages, making them ideal for software and app development.
+
+
+
