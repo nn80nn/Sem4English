@@ -230,3 +230,8 @@
 6. previously — ранее
 
 ---
+
+# Пересказ
+
+Firewalls protect networks by controlling traffic and often use packet filtering to check small chunks of data. They can block specific websites, IP addresses, or words, and users can allow certain programs to pass through. Antivirus software finds and removes harmful programs like viruses, worms, and spyware from your computer. It has been around since the 1980s and is important even if you avoid risky websites. Hackers can still attack, so strong antivirus is a must. You can set it to clean files automatically or ask for permission first. Viruses have unique signatures, like fingerprints, that help antivirus software spot them. Files get scanned when you use or download them. Heuristic scanning looks for odd behavior to catch new malware. Encryption keeps data safe by turning it into a secret code only authorized people can unlock. It uses keys: symmetric with one shared key or asymmetric with a public and private key pair. Encryption makes sure data stays private, real, unchanged, and undeniable. Brute force attacks try guessing keys, but longer keys are tougher to crack. Backing up data saves copies in case something goes wrong, with types like full, incremental, and differential backups. Using firewalls, antivirus, encryption, and backups together gives you the best protection.
+
